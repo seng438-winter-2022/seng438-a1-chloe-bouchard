@@ -2,7 +2,7 @@
 
 **Lab. Report \#1 – Introduction to Testing and Defect Tracking**
 
-| Group \#:       |   |
+| Group \#:       | 8  |
 |-----------------|---|
 | Student Names:  | Kaitlin Culligan  |
 |                 | Kunal Dhawan  |
