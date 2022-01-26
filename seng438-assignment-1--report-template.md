@@ -4,10 +4,10 @@
 
 | Group \#:       |   |
 |-----------------|---|
-| Student Names:  |   |
-|                 |   |
-|                 |   |
-|                 |   |
+| Student Names:  | Kaitlin Culligan  |
+|                 | Kunal Dhawan  |
+|                 | Chloe Bouchard  |
+|                 | Jacob Lansang  |
 
 **Table of Contents**
 
