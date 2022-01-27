@@ -56,11 +56,12 @@ Text…
 
 # How the pair testing was managed and team work/effort was divided 
 
-Text…
+Team work during each part of the lab was split evenly in between each group member. Each group member spent about 30 minutes doing exploratory testing on the the ATM system and recorded any defects to Backlog. Manual functional testing was split evenly between group member, where each group member would handle 10 test cases in Appendix C. Similarly for regression testing, each group member went over the bugs they found during manual functional testing in version 1.1 of the ATM system.
 
 # Difficulties encountered, challenges overcome, and lessons learned
 
-Text…
+During this lab, some group members found it difficult to remember the sequences it took to reach a bug, specifically during exploratory testing. This was easily overcome by
+examining the ATMs log and by listing the sequence of events taken as the tester navigates the system. It was also somewhat challenging to get familiar with Backlog, but this was overcome as we began to record our bug reports over time. During exploratory testing, it was tough to not list duplicate reports as some group members were finding the same defects as other group members. In order to prevent duplicate reports, we learned to search through our bug reports before posting any new reports. 
 
 # Comments/feedback on the lab and lab document itself
 
