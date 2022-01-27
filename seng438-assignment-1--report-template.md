@@ -35,6 +35,10 @@ learned	1](#_Toc439194682)
 An introduction of your lab work, and what you knew about exploratory and manual
 functional testing before this lab
 
+In this lab, we are testing a software using different testing approaches to find defects. The testing approaches include exploratory testing, manual scripted testing, and regression testing. By testing a software ATM system, we will apply these testing approaches in order to get more familiar with software testing as well as a bug tracking system called Backlog.
+
+Before this lab, we were aware that exploratory testing was a form of unscripted testing where the test are designed and executed at the same time. The idea of exploratory testing is to create "realistic" scenarios and using those scenarios to test the software. This approach is human based and can test simple functionalities or large sets of sequences. In contrast, manual functional testing is a scripted testing approach that is usually written by the tester themselves. This form of testing follows a specific path and there is no deviation from this path. 
+
 # High-level description of the exploratory testing plan
 
 Text…
