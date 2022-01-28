@@ -67,4 +67,4 @@ examining the ATMs log and by listing the sequence of events taken as the tester
 
 # Comments/feedback on the lab and lab document itself
 
-Text…
+The timing of the TA demonstration was not well planned out. Unfortunately, our group did not have the chance to present our bugs to the TA during our scheduled lab time, due to delays. Because of this, we were not able to receive any feedback to improve the quality of our bugs entries and our report.
